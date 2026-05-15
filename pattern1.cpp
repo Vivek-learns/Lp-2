@@ -14,10 +14,10 @@ int main(){
   }
 
   cout<<""<<endl;
-  cout<<"** LP-2 **"<<endl;
+  cout<<"****** LP-2 ******"<<endl;
 
-    for(int i=4;i>=1;i--) {
-    for(int j=4-i;j>=1;j--){
+    for(int i=5;i>=1;i--) {
+    for(int j=5-i;j>=1;j--){
       cout<<"  ";
     }
     for(int k=1;k<=i*2;k++){
