@@ -13,8 +13,8 @@ int main(){
     cout<<""<<endl;
   }
 
-  cout<<""<<endl;
-  cout<<"****** LP-2 ******"<<endl;
+  //cout<<""<<endl;
+  cout<<" ****** LP-2 ******"<<endl;
 
     for(int i=5;i>=1;i--) {
     for(int j=5-i;j>=1;j--){
